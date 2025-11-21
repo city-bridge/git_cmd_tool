@@ -8,9 +8,6 @@ dynamic = ["version"]
 description = "Gitコマンドでよく使う処理をまとめたPythonツール"
 readme = "README.md"
 license = {file = "LICENSE"}
-authors = [
-    {name = "city-bridge", email = ""}
-]
 classifiers = [
     "Development Status :: 3 - Alpha",
     "Intended Audience :: Developers",
