@@ -5,7 +5,6 @@ import subprocess
 import logging
 import shutil
 from pathlib import Path
-from typing import Optional
 
 # ロガーの設定
 logger = logging.getLogger(__name__)
